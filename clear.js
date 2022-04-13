@@ -1,5 +1,6 @@
 function clear()
 {
-document.getElementById("result").value = ""
+result = " "
+document.getElementById("result").value = result
 }
 
